@@ -14,6 +14,9 @@ another line that dan changed
 100
 10
 
+true is the tale i tell of my travels
+
+
 ssssssssssss
 new line added
 hdfgjsdgf
@@ -22,6 +25,10 @@ xxxxxxxxxxxxxxx
 
 
 
+<<<<<<< HEAD
 ffffdfgdfgfffffff
 
 dfgdfgdfgfgfgfrtrt
+=======
+fffffffffff
+>>>>>>> 5b29730cbc8794db916f5a0523755dee51ab60f9
