@@ -1,1 +1,4 @@
 This is file2.txt
+
+I'm making another change in this file, tracking that file change, but then i'm going to ignore changes in the folder sun file z.txt
+
